@@ -1,3 +1,8 @@
+
+//
+//  Created by iMokhles on 19-03-2015
+//  Copyright (c) 2015 iMokhles. All rights reserved.
+
 @interface WAStaticTableViewController : UITableViewController
 {
     NSMutableArray *_sections;
